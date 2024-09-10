@@ -1,17 +1,27 @@
-1. Download the Project from GitHub (https://github.com/a-steer/task)
-2. Set Up the Local Environment
-3. Complete the Task
-Create a New Page Named home.blade.php
-Update the Router to Point to the home Page
-Use Laravel and Vue.js or Plain JavaScript for Interactivity
-Update the CSS to Improve Design
-Apply the Section as Shown in the Video
-5. Run the Project Locally and Verify Interaction
-Visit the Local URL for the New Page
-Ensure Interactions and Texts Function Correctly
-6. Push the Project to GitHub
-Add the Changes
-Push the Changes to the Repository
-7. Send a Completion Message for email
-Deadline
-Complete and submit the task by Thursday, 12th September 2024
+Task Details:
+Accept GitHub Organization Invitation
+Check your email or GitHub notifications for an invitation to join the organization.
+Accept the invitation to gain access to the necessary project files for the task.
+Download the Project from GitHub
+Copy the repository URL from this link: https://github.com/a-steer/task.git
+Set Up the Local Environment
+Install required packages using Composer.
+Install JavaScript libraries using npm.
+Create the .env file.
+Generate the application key.
+Run the Laravel local server.
+Complete the Task
+Create a new page named home.blade.php.
+Update the router to point to the home page.
+Use Laravel and Vue.js or plain JavaScript for interactivity.
+Update the CSS to improve design.
+Apply the section as shown in the video located at public/video in the Laravel project.
+Run the Project Locally and Verify Interaction
+Visit the local URL for the new page.
+Ensure all interactions and texts function correctly.
+Push the Project to GitHub
+Add and commit the changes.
+Push the changes to the repository.
+Send a Completion Message
+Notify us when you have completed the task.
+Deadline: 05/09/2024
